@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/CeraPro-Black.ttf",
+      "sha1": "e75aab4f12fdd56078b419d909df6661eed93346"
+    },
+    {
+      "path": "src/assets/fonts/CeraPro-Bold.ttf",
+      "sha1": "31e65248f354106fda170b71be39e21edf303c9e"
+    },
+    {
+      "path": "src/assets/fonts/CeraPro-Medium.ttf",
+      "sha1": "d6fdd05799e5832ca4baa8be3c97ccefcd2e2209"
+    },
+    {
+      "path": "src/assets/fonts/CeraPro-Regular.ttf",
+      "sha1": "dde47f28e602f3aa1488ec6a2126ab75c26e2ac4"
+    },
+    {
+      "path": "src/assets/fonts/CeraPro-Thin.ttf",
+      "sha1": "d8b0fcf72e07479fae17987482d73cf868041579"
+    },
+    {
+      "path": "src/assets/fonts/icomoon_homeedu_student_mobile.ttf",
+      "sha1": "87efea5fe2513dbecb87c9e641d1c6d7a626825e"
+    },
+    {
+      "path": "src/assets/fonts/selection.json",
+      "sha1": "d6d73431e7919ebf52b836245594b8f52371924f"
+    }
+  ]
+}

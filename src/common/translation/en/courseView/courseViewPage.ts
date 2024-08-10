@@ -1,0 +1,18 @@
+export default {
+  navigationHeading: "View course",
+  rateReview: "Rate & review",
+  courseType: "Course type",
+  courseName: "Course name",
+  totalHours: "Total hours",
+  perHourFees: "Per hour fees",
+  totalFees: "Total fees",
+  courseStartsFrom: "Course starts from",
+  courseEndsAt: "Course ends at",
+  noOfSessions: "No of sessions",
+  aboutCourse: "About course",
+  courseThumbnail: "Course thumbnail",
+  viewSession: "View session",
+  title: "Title",
+  description: "Description",
+  session: "Session",
+};

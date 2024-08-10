@@ -1,0 +1,58 @@
+export const subjectAttendanceList = [
+  {
+    index: 1,
+    subject: "Math",
+    startTime: "10:00 AM",
+    endTime: "11:00 AM",
+    presentHour: "01:00:00",
+  },
+  {
+    index: 2,
+    subject: "Science",
+    startTime: "10:00 AM",
+    endTime: "11:00 AM",
+    presentHour: "01:00:00",
+  },
+  {
+    index: 3,
+    subject: "Activity",
+    startTime: "10:00 AM",
+    endTime: "11:00 AM",
+    presentHour: "01:00:00",
+  },
+  {
+    index: 4,
+    subject: "Free slot",
+    startTime: "10:00 AM",
+    endTime: "11:00 AM",
+    presentHour: "01:00:00",
+  },
+  {
+    index: 5,
+    subject: "English",
+    startTime: "10:00 AM",
+    endTime: "11:00 AM",
+    presentHour: "01:00:00",
+  },
+  {
+    index: 6,
+    subject: "History",
+    startTime: "10:00 AM",
+    endTime: "11:00 AM",
+    presentHour: "01:00:00",
+  },
+  {
+    index: 7,
+    subject: "Algebra",
+    startTime: "10:00 AM",
+    endTime: "11:00 AM",
+    presentHour: "01:00:00",
+  },
+  {
+    index: 8,
+    subject: "Geometry",
+    startTime: "10:00 AM",
+    endTime: "11:00 AM",
+    presentHour: "01:00:00",
+  },
+];
